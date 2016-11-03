@@ -1,6 +1,10 @@
 # 新手专用  
  newcomer-mark  
 
+# Releases  
+测试和展示书写README的各种markdown语法
+https://github.com/guodongxiaren/README  
+
 # Documentation 
 ## 一、N个小问题  
 1.在这里换行可以在结果打2个空格再换行，或者用br；  
