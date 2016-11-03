@@ -2,14 +2,14 @@
  newcomer-mark  
 
 # Releases  
-测试和展示书写README的各种markdown语法
-https://github.com/guodongxiaren/README  
+1.测试和展示书写README的各种markdown语法 https://github.com/guodongxiaren/README    
 
 # Documentation 
 ## 一、N个小问题  
 1.在这里换行可以在结果打2个空格再换行，或者用br；  
 2.要把一行变为大标题，在换行后输入 ===== 至少一个就行了，中标题换行后输入 ----；  
 3.要更多级别的标题，可以在这行最前面加上#，一个表示1级，一共6级。#最后可以打上个空格，会有效果；
+4.更多关于写法问题，直接看Releases的第1条
 
 ## 二、README几种常用格式  
 1.Moved to @xxxxxx.xxx  
