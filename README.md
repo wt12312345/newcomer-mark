@@ -1,5 +1,5 @@
-# newcomer-mark
-新手专用  
+# 新手专用  
+ newcomer-mark  
 
 # Documentation 
 ## 一、N个小问题  
